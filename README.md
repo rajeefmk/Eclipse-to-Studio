@@ -17,7 +17,9 @@ This repo is to create resources for each of these categories and help them migr
 ##General
 
 https://www.airpair.com/android/android-studio-vs-eclipse
+
 https://www.youtube.com/watch?v=lmv1dTnhLH4
+
 http://tools.android.com/tech-docs/new-build-system/migrating-from-eclipse-projects
 
 ##Specific Functions
@@ -34,6 +36,6 @@ http://tools.android.com/tech-docs/new-build-system/user-guide#TOC-Dependencies-
 
 http://stackoverflow.com/questions/16588064/how-do-i-add-a-library-project-to-the-android-studio
 
-###Eclipse : Workspace + Project Vs Studio Module + Project
+###Eclipse : Workspace + Project Vs Studio : Module + Project
 
 http://stackoverflow.com/questions/17187080/android-studio-new-project-vs-new-module
