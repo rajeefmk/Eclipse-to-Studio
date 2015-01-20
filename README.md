@@ -39,3 +39,10 @@ http://stackoverflow.com/questions/16588064/how-do-i-add-a-library-project-to-th
 ###Eclipse : Workspace + Project Vs Studio : Module + Project
 
 http://stackoverflow.com/questions/17187080/android-studio-new-project-vs-new-module
+
+##Common Troubleshooting
+Q.How do I run multiple instances of Android Studio
+A. http://goo.gl/Xv2fDr
+
+Q.
+A.
