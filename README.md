@@ -14,4 +14,26 @@ You might be at various stage -
 This repo is to create resources for each of these categories and help them migrate to Studio.Hence its a collaborative process, so dig in and try to help out! Do send a pull request, please!
 
 
-##General Reading
+##General
+
+https://www.airpair.com/android/android-studio-vs-eclipse
+https://www.youtube.com/watch?v=lmv1dTnhLH4
+http://tools.android.com/tech-docs/new-build-system/migrating-from-eclipse-projects
+
+##Specific Functions
+
+###About Gradle & Build Processes
+
+http://blog.codinghorror.com/the-f5-key-is-not-a-build-process/
+
+https://www.youtube.com/watch?v=LCJAgPkpmR0
+
+###Adding Library Project
+
+http://tools.android.com/tech-docs/new-build-system/user-guide#TOC-Dependencies-Android-Libraries-and-Multi-project-setup
+
+http://stackoverflow.com/questions/16588064/how-do-i-add-a-library-project-to-the-android-studio
+
+###Eclipse : Workspace + Project Vs Studio Module + Project
+
+http://stackoverflow.com/questions/17187080/android-studio-new-project-vs-new-module
