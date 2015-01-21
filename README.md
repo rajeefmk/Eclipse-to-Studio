@@ -36,6 +36,9 @@ http://tools.android.com/tech-docs/new-build-system/user-guide#TOC-Dependencies-
 
 http://stackoverflow.com/questions/16588064/how-do-i-add-a-library-project-to-the-android-studio
 
+####Library with native code
+http://www.cumulations.com/blogs/9/Importing-library-having-native-code-in-Android-studio
+
 ###Eclipse : Workspace + Project Vs Studio : Module + Project
 
 http://stackoverflow.com/questions/17187080/android-studio-new-project-vs-new-module
