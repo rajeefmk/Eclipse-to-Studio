@@ -43,6 +43,10 @@ http://www.cumulations.com/blogs/9/Importing-library-having-native-code-in-Andro
 
 http://stackoverflow.com/questions/17187080/android-studio-new-project-vs-new-module
 
+###Windows + Github + Studio
+
+http://shareonsite.blogspot.in/2014/12/share-project-from-android-studio-101.html
+
 ##Common Troubleshooting
 Q.How do I run multiple instances of Android Studio
 
