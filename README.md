@@ -14,7 +14,7 @@ You might be at various stage -
 This repo is to create resources for each of these categories and help them migrate to Studio.Hence its a collaborative process, so dig in and try to help out! Do send a pull request, please!
 
 
-##General
+## General
 
 https://www.airpair.com/android/android-studio-vs-eclipse
 
@@ -22,32 +22,32 @@ https://www.youtube.com/watch?v=lmv1dTnhLH4
 
 http://tools.android.com/tech-docs/new-build-system/migrating-from-eclipse-projects
 
-##Specific Functions
+## Specific Functions
 
-###About Gradle & Build Processes
+### About Gradle & Build Processes
 
 http://blog.codinghorror.com/the-f5-key-is-not-a-build-process/
 
 https://www.youtube.com/watch?v=LCJAgPkpmR0
 
-###Adding Library Project
+### Adding Library Project
 
 http://tools.android.com/tech-docs/new-build-system/user-guide#TOC-Dependencies-Android-Libraries-and-Multi-project-setup
 
 http://stackoverflow.com/questions/16588064/how-do-i-add-a-library-project-to-the-android-studio
 
-####Library with native code
+#### Library with native code
 http://www.cumulations.com/blogs/9/Importing-library-having-native-code-in-Android-studio
 
-###Eclipse : Workspace + Project Vs Studio : Module + Project
+### Eclipse : Workspace + Project Vs Studio : Module + Project
 
 http://stackoverflow.com/questions/17187080/android-studio-new-project-vs-new-module
 
-###Windows + Github + Studio
+### Windows + Github + Studio
 
 http://shareonsite.blogspot.in/2014/12/share-project-from-android-studio-101.html
 
-##Common Troubleshooting
+## Common Troubleshooting
 Q.How do I run multiple instances of Android Studio
 
 A. http://goo.gl/Xv2fDr
